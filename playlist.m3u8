@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="1"
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/Hu8oSJvpjEGtNrtPI76tmKg-k1f3qpKt0_H_1rap3W12tdA_XlyOqeMDvXNVtoaMOECc4k6XanxUXasmAk2YaA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-name="2"
+
+#EXTINF:-1 tvg-name="3"
+
+#EXTINF:-1 tvg-name="4"
+
+#EXTINF:-1 tvg-name="5"
+
+#EXTINF:-1 tvg-name="6"
+
+#EXTINF:-1 tvg-name="7"
