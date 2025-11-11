@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Futbol.png" tvg-name="FUTBOL" ,FUTBOL
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/F1.png" tvg-name="F1" ,F1
-http://176.65.146.237:8401/play/a0ae/95551423.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/MotoGP.png" tvg-name="MotoGP" ,MotoGP
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Basket.png" tvg-name="Basket" ,Basket
