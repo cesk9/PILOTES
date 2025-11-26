@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Futbol.png" tvg-name="Futbol" ,Futbol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Espn.png" tvg-name="Deportes" , Deportes
 https://tvpass.org/live/espn-deportes/sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Futbol1.png" tvg-name="Futbol1" ,Futbol1
 http://181.205.205.173:8888/play/a0fl/index.m3u8
