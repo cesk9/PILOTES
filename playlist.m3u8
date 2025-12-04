@@ -10,6 +10,6 @@ http://181.205.205.173:8888/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="3" ,3
 http://181.205.205.173:8888/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="FOX" ,FOX
-http://148.113.207.98:8000/play/a00a/index.m3u8
+http://148.113.207.98:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="TNT" , TNT
 http://181.205.205.173:8888/play/a0nt/index.m3u8
