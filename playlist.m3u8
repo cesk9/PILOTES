@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="Deportes" , Deportes
 http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="HD" ,HD
-http://181.205.205.173:8888/play/a0fl/index.m3u8
+http://148.222.225.136:8004/play/a0ee/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="Premium" ,Premium
 http://181.205.205.173:8888/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="2" ,2
-http://181.119.97.124:8080/play/a002/index.m3u8
+http://148.222.225.136:8004/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="3" ,3
-http://181.205.205.173:8888/play/a0hk/index.m3u8
+http://148.222.225.136:8004/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" tvg-name="Ds" ,Ds
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" tvg-name="FOX" ,FOX
