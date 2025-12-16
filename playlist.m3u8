@@ -9,7 +9,7 @@ http://181.205.205.173:8888/play/a0fo/index.m3u8
 http://181.205.205.173:8888/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="3" ,3
 http://181.205.205.173:8888/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win+.png" tvg-name="Win+" ,Win+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win+.png" tvg-name="Wn+" ,Wn+
 http://181.205.205.173:8888/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win.png" tvg-name="Win" ,Win
 http://181.205.205.173:8888/play/a0h0/index.m3u8
