@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="Deportes" , Deportes
 http://148.113.207.98:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="FHD" ,FHD
+http://189.50.210.3:8008/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="HD" ,HD
-http://181.205.205.173:8888/play/a0fl/index.m3u8
+http://45.173.74.2:2010/play/a08a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="SD" ,SD
 http://161.132.68.202:8000/play/EPSD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" tvg-name="Premium" ,Premium
