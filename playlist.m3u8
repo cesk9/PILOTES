@@ -2,21 +2,21 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Deportes
 http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD
-http://181.205.205.173:8888/play/a0fl/index.m3u8
+http://200.6.182.118:8123/play/a0da/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Premium
-http://181.205.205.173:8888/play/a0fo/index.m3u8
+http://200.6.182.118:8123/play/a06d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,2
-http://181.205.205.173:8888/play/a0ne/index.m3u8
+http://200.6.182.118:8123/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,3
-http://181.205.205.173:8888/play/a0hk/index.m3u8
+http://200.6.182.118:8123/play/a073/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Tdn.png" ,Tdn
-http://148.113.207.98:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sk.png" ,Sky
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win+.png" ,Wn+
-http://181.205.205.173:8888/play/a0fp/index.m3u8
+http://200.6.182.118:8123/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win.png" ,Win
 http://181.205.205.173:8888/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
