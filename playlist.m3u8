@@ -15,8 +15,8 @@ http://201.230.121.186:8000/play/a0od/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win+.png" ,Wn+
-https://king.spider-on.top/playlist/easy/racing-santander-barcelona/1/5125326/playlist.m3u8?hash=950a39ed199c2068307cc102fc8a202a&t=1768507308254
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky
+http://167.250.223.26:8085/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win.png" ,Win
 http://181.205.205.173:8888/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
