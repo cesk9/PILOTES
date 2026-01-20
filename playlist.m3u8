@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Deportes
 http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD
-http://191.97.49.82:8001/play/a00l/index.m3u8 
+http://45.173.74.2:2010/play/a08a/index.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Premium
 http://167.250.223.26:8085/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,2
