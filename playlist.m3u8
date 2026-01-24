@@ -9,6 +9,11 @@ http://167.250.223.26:8085/play/a04g/index.m3u8
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,3
 http://167.250.223.26:8085/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo
+https://cdn-live-tv.ru/api/v1/channels/us-bein-sports-1/index.m3u8?token=8d0d123136fc21ce388a65bdbcb13c0e5a98421cc71a07bb11d2d2eb57e90f60.1769267812.fa308a7653aadb53eabdc1a14469a899.b607dd0691390871ee3c9fd21ed9ab5e.bbf6b49f76739136d4b8aaba8aa3809f.3e5cae2a68a1ce34
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo 1
+http://205.237.106.134/hls/ZIOOOQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
@@ -17,8 +22,6 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky1
 http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Tdn.png" ,Vivo
-https://cdn-live-tv.ru/api/v1/channels/us-bein-sports-1/index.m3u8?token=8d0d123136fc21ce388a65bdbcb13c0e5a98421cc71a07bb11d2d2eb57e90f60.1769267812.fa308a7653aadb53eabdc1a14469a899.b607dd0691390871ee3c9fd21ed9ab5e.bbf6b49f76739136d4b8aaba8aa3809f.3e5cae2a68a1ce34
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win.png" ,Win
 http://181.205.205.173:8888/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
