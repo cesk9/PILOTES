@@ -12,7 +12,7 @@ http://167.250.223.26:8085/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo
 https://cdn-live-tv.ru/api/v1/channels/us-espn-deportes/index.m3u8?token=12254eefa6b0b8e0a6eff0adbe47941e8142b9c49fc5a9f5057cbe5043479b3a.1769283049.a7bf3ebc3da4c5cfca82911bcf13b0ba.6dbf0400bd5c5110e6f7f9f8902812e7.a251e3838a5fdbffaa86
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo1
-https://play7ba.peodlc.com/sport/202_4418071_2.m3u8
+https://play7ba.peodlc.com/sport/202_4418077_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
