@@ -13,20 +13,16 @@ http://167.250.223.26:8085/play/a069/index.m3u8
 http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/592041.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky1 liga
 http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/585048.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky2 liga
-http://179.60.224.196:8000/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky3 liga
-http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo
-http://platinumtv.xyz:8080/21408976/k9N3ZB5HcJ/162934
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo1
-http://platinumtv.xyz:8080/21408976/k9N3ZB5HcJ/162935
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
-http://201.230.121.186:8000/play/a0od/index.m3u8
+http://domestipo1.online:80/brancomed2024/8kFbXvRrHrRn/592039.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win.png" ,Win
 http://domestipo1.online:80/brancomed2024/8kFbXvRrHrRn/13766.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
 http://148.113.207.98:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo
+http://platinumtv.xyz:8080/21408976/k9N3ZB5HcJ/162934
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo1
+http://platinumtv.xyz:8080/21408976/k9N3ZB5HcJ/162935
 
