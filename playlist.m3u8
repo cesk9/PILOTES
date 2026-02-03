@@ -26,7 +26,7 @@ http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win.png" ,Win
-http://181.205.205.173:8888/play/a0h0/index.m3u8
+http://domestipo1.online:80/brancomed2024/8kFbXvRrHrRn/13766.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
 http://148.113.207.98:8000/play/a00h/index.m3u8
 
