@@ -10,9 +10,9 @@ http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,3
 http://167.250.223.26:8085/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky liga
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/592041.m3u8
+http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky1 liga
-http://domestipo1.online:80/Juan376Criollo/Criollo20054Ju/585048.m3u8
+http://167.250.223.26:8085/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
 https://tvgolat.org:8443/vera001/29112023/244286.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
