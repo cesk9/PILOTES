@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Deportes
 http://38.58.182.151:7723/45cb98f6ff304e742c65ec6a3b5d087f/index.m3u8?token=tim-vip-95525
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Deportes1
+http://200.58.64.244:9000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD
 http://45.173.74.2:2010/play/a08a/index.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Premium
