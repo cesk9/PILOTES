@@ -21,10 +21,8 @@ http://177.10.184.193:8000/play/a0eh/index.m3u8
 https://tvgolat.org:8443/vera001/29112023/244286.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,DsVpn
-http://bazarpremium.hopto.me:80/ser682mun/5w49evr21/69567.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win.png" ,Win
-http://domestipo1.online:80/brancomed2024/8kFbXvRrHrRn/13766.ts
+http://181.78.74.146:18000/play/a03g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
 http://148.113.207.98:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo
