@@ -13,10 +13,12 @@ http://191.97.49.82:8001/play/a00m/index.m3u8
 http://167.250.223.26:8085/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky liga
 http://179.60.224.196:8000/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky1 liga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky 1 liga
 http://167.250.223.26:8085/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky2 liga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky 2 liga
 http://177.10.184.193:8000/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky vpn liga
+https://normielista.stream/sky_sports_mx_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky F1
 http://fortv.cc:8080/live/akintunda/johnson@1323/53704.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
