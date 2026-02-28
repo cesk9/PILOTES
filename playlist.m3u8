@@ -19,6 +19,8 @@ http://186.33.1.71:8000/play/a03u/index.m3u8
 http://201.216.147.90:8729/play/a01f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky 2 liga
 http://167.250.223.26:8085/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky 3 liga
+http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky F1
 http://fortv.cc:8080/live/akintunda/johnson@1323/53704.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
