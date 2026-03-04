@@ -35,8 +35,8 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 http://181.78.74.146:18000/play/a03g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
 http://orange.wales:80/Eden1/123456789/235377
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo
-http://platinumtv.xyz:8080/21408976/k9N3ZB5HcJ/162934
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Bein liga
+http://orange.wales:80/Eden1/123456789/77588
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Vivo.png" ,Vivo1
 http://platinumtv.xyz:8080/21408976/k9N3ZB5HcJ/162935
 
