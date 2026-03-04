@@ -23,6 +23,8 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 http://45.90.106.85:9090/281171_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Sky F1
 http://fortv.cc:8080/live/akintunda/johnson@1323/53704.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,Dzn F1
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278826.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
 https://tvgolat.org:8443/vera001/29112023/244286.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
