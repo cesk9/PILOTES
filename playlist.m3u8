@@ -40,11 +40,13 @@ http://fortv.cc:8080/live/akintunda/johnson@1323/53704.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,Dzn F1
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278826.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,Dzn F1 HD
-http://orange.wales:80/Eden1/123456789/933831
+http://orange.wales:80/Eden1/123456789/933829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds
 https://tvgolat.org:8443/vera001/29112023/244286.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Ds1
 http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Win+.png" ,Win+ Mundial
+http://138.204.12.14:40000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Fo.png" ,FOX
 http://orange.wales:80/Eden1/123456789/235377
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/MCM pop.png" ,Musica pop
