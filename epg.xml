@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MyCustomEPG" source-data-name="Manual">
+  <!-- Definición de Canal -->
+  <channel id="Canal1">
+    <display-name lang="es">HD</display-name>
+  </channel>
+
+  <!-- Definición de Programa -->
+  <programme start="" stop="" channel="Canal1">
+    <title lang="es">⚽</title>
+    <desc lang="es">Nwcast-Brça 21,00 h</desc>
+  </programme>
+</tv>
