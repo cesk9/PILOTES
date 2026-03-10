@@ -6,10 +6,12 @@ http://200.58.64.244:9000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Deportes2
 https://xtream.videx.lol/Yoshiro/admin/435.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD
-http://190.97.183.108:8000/play/a03z/index.m3u8
+http://181.209.169.226:1900/play/a06h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD 1
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,SD
+http://190.97.183.108:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,SD 1
 http://24.152.54.30:8085/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD 2
 http://45.173.74.2:2010/play/a08a/index.m3u8
