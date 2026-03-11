@@ -5,9 +5,9 @@ http://38.58.182.151:7723/45cb98f6ff304e742c65ec6a3b5d087f/index.m3u8?token=tim-
 http://200.58.64.244:9000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Deportes2
 https://xtream.videx.lol/Yoshiro/admin/435.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD
+#EXTINF:-1 tvg-id="HD" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD
 http://190.119.195.114:8060/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD 1
+#EXTINF:-1 tvg-id="HD1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,HD 1
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Premium
 http://190.119.195.114:8060/play/a0o9/index.m3u8
