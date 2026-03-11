@@ -6,11 +6,12 @@
   </channel>
 
   <!-- Definición de Programa -->
-  <programme start="" stop="" channel="HD">
+  <programme start="20260311210000 +0200" stop="20260311230000 +0200" channel="HD">
     <title lang="es">Pilotes</title>
     <desc lang="es">Mdrd-Cty 21,00 h</desc>
   </programme>
 </tv>
+
 
 
 
