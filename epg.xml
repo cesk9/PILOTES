@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MyCustomEPG" source-data-name="Manual">
   <!-- Definición de Canal -->
-  <channel id="Premium">
-    <display-name lang="es">Premium</display-name>
+  <channel id="HD">
+    <display-name lang="es">HD</display-name>
   </channel>
 
   <!-- Definición de Programa -->
-  <programme start="" stop="" channel="Premium">
+  <programme start="20260311100000 +0200" stop="20260311120000 +0200" channel="HD">
     <title lang="es">⚽</title>
-    <desc lang="es">Nwcast-Brça 21,00 h</desc>
+    <desc lang="es">Mdrd-Cty 21,00 h</desc>
   </programme>
 </tv>
+
 
