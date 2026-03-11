@@ -43,37 +43,38 @@
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Dportes">
     <title lang="es">Pilotes</title>
-    <desc lang="es">14,00 Mdrd-Cty</desc>
+    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Dportes1">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Dportes2">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Sy">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Sy1">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Sy2">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="+">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">nada</desc>
   </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="+">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">nada</desc>
   </programme>
 </tv>
+
 
 
 
