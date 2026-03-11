@@ -5,7 +5,7 @@
     <display-name lang="es">HD</display-name>
   </channel>
   <channel id="HD1">
-    <display-name lang="es">HD 1</display-name>
+    <display-name lang="es">HD1</display-name>
   </channel>
   <channel id="Dportes">
     <display-name lang="es">Dportes</display-name>
@@ -74,6 +74,7 @@
     <desc lang="es">nada</desc>
   </programme>
 </tv>
+
 
 
 
