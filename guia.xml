@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MiGuiaManual">
+  <!-- Definición de Canales -->
+  <channel id="HD">
+    <display-name lang="es">HD</display-name>
+  </channel>
+  <channel id="HD1">
+    <display-name lang="es">HD 1</display-name>
+  </channel>
+
+  <!-- Definición de la Programación (Programas) -->
+  <programme start="20260311210000 +0100" stop="20260311230000 +0100" channel="HD">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311210000 +0100" stop="20260311230000 +0100" channel="HD1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">Mdrd-Cty</desc>
+  </programme>
+</tv>
