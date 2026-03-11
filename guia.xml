@@ -7,6 +7,30 @@
   <channel id="HD1">
     <display-name lang="es">HD 1</display-name>
   </channel>
+  <channel id="Dportes">
+    <display-name lang="es">Dportes</display-name>
+  </channel>
+  <channel id="Dportes1">
+    <display-name lang="es">Dportes1</display-name>
+  </channel>
+  <channel id="Dportes2">
+    <display-name lang="es">Dportes2</display-name>
+  </channel>
+  <channel id="Sy">
+    <display-name lang="es">Sy</display-name>
+  </channel>
+  <channel id="Sy1">
+    <display-name lang="es">Sy1</display-name>
+  </channel>
+  <channel id="Sy2">
+    <display-name lang="es">Sy2</display-name>
+  </channel>
+  <channel id="+">
+    <display-name lang="es">+</display-name>
+  </channel>
+  <channel id="+">
+    <display-name lang="es">+1</display-name>
+  </channel>
 
   <!-- Definición de la Programación (Programas) -->
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="HD">
@@ -17,7 +41,40 @@
     <title lang="es">Pilotes</title>
     <desc lang="es">21,00 Mdrd-Cty</desc>
   </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Dportes">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">14,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Dportes1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Dportes2">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Sy">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Sy1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Sy2">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="+">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="+">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
 </tv>
+
 
 
 
