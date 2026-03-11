@@ -11,13 +11,14 @@
   <!-- Definición de la Programación (Programas) -->
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="HD">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 h Mdrd-Cty</desc>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
   </programme>
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="HD1">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 h Mdrd-Cty</desc>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
   </programme>
 </tv>
+
 
 
 
