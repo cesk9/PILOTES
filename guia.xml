@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MiGuiaManual">
   <!-- Definición de Canales -->
-  <channel id="HDN">
-    <display-name lang="es">HDN</display-name>
+  <channel id="Norte">
+    <display-name lang="es">Norte</display-name>
   </channel>
-  <channel id="HDN1">
-    <display-name lang="es">HDN1</display-name>
+  <channel id="Norte1">
+    <display-name lang="es">Norte1</display-name>
   </channel>
   <channel id="Dportes">
     <display-name lang="es">Dportes</display-name>
@@ -16,20 +16,20 @@
   <channel id="Dportes2">
     <display-name lang="es">Dportes2</display-name>
   </channel>
-  <channel id="Sy">
-    <display-name lang="es">Sy</display-name>
+  <channel id="Cielo">
+    <display-name lang="es">Cielo</display-name>
   </channel>
-  <channel id="Sy1">
-    <display-name lang="es">Sy1</display-name>
+  <channel id="Cielo1">
+    <display-name lang="es">Cielo1</display-name>
   </channel>
-  <channel id="Sy2">
-    <display-name lang="es">Sy2</display-name>
+  <channel id="Cielo2">
+    <display-name lang="es">Cielo2</display-name>
   </channel>
-  <channel id="+">
-    <display-name lang="es">+</display-name>
+  <channel id="Mas">
+    <display-name lang="es">Mas</display-name>
   </channel>
-  <channel id="+">
-    <display-name lang="es">+1</display-name>
+  <channel id="Mas1">
+    <display-name lang="es">Mas1</display-name>
   </channel>
 
   <!-- Definición de la Programación (Programas) -->
@@ -74,6 +74,7 @@
     <desc lang="es">nada</desc>
   </programme>
 </tv>
+
 
 
 
