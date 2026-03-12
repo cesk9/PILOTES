@@ -29,7 +29,7 @@ http://186.33.1.71:8000/play/a03u/index.m3u8
 http://201.216.147.90:8729/play/a01f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Di recto
 http://205.235.6.29:8000/play/a0ws/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn.png" ,W in+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn+.png" ,W in+
 http://205.235.6.29:8000/play/a0xc/index.m3u8
 
 
