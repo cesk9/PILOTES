@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MiGuiaManual">
   <!-- Definición de Canales -->
-  <channel id="Norte">
-    <display-name lang="es">Norte</display-name>
-  </channel>
-  <channel id="Norte1">
-    <display-name lang="es">Norte1</display-name>
-  </channel>
-  <channel id="De portes">
+   <channel id="De portes">
     <display-name lang="es">De portes</display-name>
   </channel>
   <channel id="De portes1">
@@ -25,15 +19,124 @@
   <channel id="S ky2">
     <display-name lang="es">S ky2</display-name>
   </channel>
+  <channel id="Di recto">
+    <display-name lang="es">Di recto</display-name>
+  </channel>
+  <channel id="Norte">
+    <display-name lang="es">Norte</display-name>
+  </channel>
+  <channel id="Norte1">
+    <display-name lang="es">Norte1</display-name>
+  </channel>
+ <channel id="Sur">
+    <display-name lang="es">Sur</display-name>
+  </channel>
+  <channel id="Sur1">
+    <display-name lang="es">Sur1</display-name>
+  </channel>
   <channel id="Pre mium">
     <display-name lang="es">Pre mium</display-name>
   </channel>
   <channel id="Pre mium1">
     <display-name lang="es">Pre mium1</display-name>
   </channel>
+  <channel id="W in+">
+    <display-name lang="es">W in+</display-name>
+  </channel>
 
   <!-- Definición de la Programación (Programas) -->
-  <programme start="20260312100000 +0100" stop="20260312230000 +0100" channel="Norte">
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Norte">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Norte1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Sur">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Sur1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Pre mium">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Pre mium1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="W in+">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes2">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky2">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Di recto">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="De portes">
     <title lang="es">Pilotes</title>
     <desc lang="es">
       14,00 Mll-Esp
@@ -42,43 +145,62 @@
       20,30 Rso-Osa
     </desc>
   </programme>
-  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Norte1">
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="De portes1">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
   </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes">
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="De portes2">
     <title lang="es">Pilotes</title>
-    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
   </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes1">
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="S ky">
     <title lang="es">Pilotes</title>
-    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
   </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes2">
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="S ky1">
     <title lang="es">Pilotes</title>
-    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
   </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky">
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="S ky2">
     <title lang="es">Pilotes</title>
-    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
   </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky1">
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="Di recto">
     <title lang="es">Pilotes</title>
-    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
-  </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky2">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">14,00 Gi-Bilb 16,00 At Mad-Geta 18,15 Ovi-Val 20,30 Mad-Elc</desc>
-  </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Pre mium">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">nada</desc>
-  </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="Pre mium1">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">nada</desc>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
   </programme>
 </tv>
+
 
 
 
