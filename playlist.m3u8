@@ -29,8 +29,9 @@ http://186.33.1.71:8000/play/a03u/index.m3u8
 http://201.216.147.90:8729/play/a01f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Di recto
 http://104.238.205.28:9090/278798_.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Di recto1
-http://104.238.222.251:9090/278892_.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn.png" ,W in+
+http://205.235.6.29:8000/play/a0xc/index.m3u8
+
 
 
 
