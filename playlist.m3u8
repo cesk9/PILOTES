@@ -28,7 +28,7 @@ http://190.119.195.114:8060/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Dos
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Tres
-http://167.250.223.26:8085/play/a069/index.m3u8
+http://190.119.195.114:8060/play/a0nh/index.m3u8
 #EXTINF:-1 tvg-id="Di recto" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Di recto
 http://205.235.6.29:8000/play/a0ws/index.m3u8
 #EXTINF:-1 tvg-id="W in+" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn+.png" ,W in+
