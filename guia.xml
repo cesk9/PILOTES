@@ -55,11 +55,23 @@
     <title lang="es">Pilotes</title>
     <desc lang="es">21,00 Mdrd-Cty</desc>
   </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Norte1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Sur">
     <title lang="es">Pilotes</title>
     <desc lang="es">21,00 Mdrd-Cty</desc>
   </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Sur1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Pre mium">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Mdrd-Cty</desc>
+  </programme>
+  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Pre mium1">
     <title lang="es">Pilotes</title>
     <desc lang="es">21,00 Mdrd-Cty</desc>
   </programme>
@@ -80,7 +92,52 @@
       20,30 Mad-Elc
     </desc>
   </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes2">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes3">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
   <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Gi-Bilb
+      16,00 At Mad-Geta
+      18,15 Ovi-Val
+      20,30 Mad-Elc
+    </desc>
+  </programme>
+  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="S ky2">
     <title lang="es">Pilotes</title>
     <desc lang="es">
       14,00 Gi-Bilb
@@ -107,7 +164,52 @@
       20,30 Rso-Osa
     </desc>
   </programme>
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="De portes1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
+  </programme>
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="De portes2">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
+  </programme>
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="De portes3">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
+  </programme>
   <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="S ky">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
+  </programme>
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="S ky1">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">
+      14,00 Mll-Esp
+      16,00 Bar-Sev
+      18,15 Bet-Cel
+      20,30 Rso-Osa
+    </desc>
+  </programme>
+  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="S ky2">
     <title lang="es">Pilotes</title>
     <desc lang="es">
       14,00 Mll-Esp
