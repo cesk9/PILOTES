@@ -4,8 +4,23 @@
    <channel id="De portes">
     <display-name lang="es">De portes</display-name>
   </channel>
+   <channel id="De portes1">
+    <display-name lang="es">De portes1</display-name>
+  </channel>
+  <channel id="De portes2">
+    <display-name lang="es">De portes2</display-name>
+  </channel>
+  <channel id="De portes3">
+    <display-name lang="es">De portes3</display-name>
+  </channel>
   <channel id="S ky">
     <display-name lang="es">S ky</display-name>
+  </channel>
+  <channel id="S ky1">
+    <display-name lang="es">S ky1</display-name>
+  </channel>
+  <channel id="S ky2">
+    <display-name lang="es">S ky2</display-name>
   </channel>
   <channel id="Di recto">
     <display-name lang="es">Di recto</display-name>
@@ -13,17 +28,26 @@
   <channel id="Norte">
     <display-name lang="es">Norte</display-name>
   </channel>
+  <channel id="Norte1">
+    <display-name lang="es">Norte1</display-name>
+  </channel>
  <channel id="Sur">
     <display-name lang="es">Sur</display-name>
   </channel>
+  <channel id="Sur1">
+    <display-name lang="es">Sur1</display-name>
+  </channel>
   <channel id="Pre mium">
     <display-name lang="es">Pre mium</display-name>
+  </channel>
+  <channel id="Pre mium1">
+    <display-name lang="es">Pre mium1</display-name>
   </channel>
   <channel id="W in+">
     <display-name lang="es">W in+</display-name>
   </channel>
   <channel id="F  1">
-    <display-name lang="es">Pre mium1</display-name>
+    <display-name lang="es">F  1</display-name>
   </channel>
 
   <!-- Definición de la Programación (Programas) -->
