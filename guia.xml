@@ -29,15 +29,15 @@
   <!-- Definición de la Programación (Programas) -->
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Norte">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">20,40 Mdrd-Cty</desc>
   </programme>
-  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Sur">
+  <programme start="20260317100000 +0100" stop="20260317230000 +0100" channel="Sur">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">20,40 Cty-Mdr</desc>
   </programme>
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Pre mium">
     <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+    <desc lang="es">20,40 Mdrd-Cty</desc>
   </programme>
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="W in+">
     <title lang="es">Pilotes</title>
@@ -52,7 +52,7 @@
     <desc lang="es">
       14,00 Gi-Bilb
       16,00 At Mad-Geta
-      18,15 Ovi-Val
+      18,25 Ovi-Val
       20,30 Mad-Elc
     </desc>
   </programme>
@@ -61,7 +61,7 @@
     <desc lang="es">
       14,00 Mll-Esp
       16,00 Bar-Sev
-      18,15 Bet-Cel
+      18,25 Bet-Cel
       20,30 Rso-Osa
     </desc>
   </programme>
