@@ -27,17 +27,17 @@
   </channel>
 
   <!-- Definición de la Programación (Programas) -->
-  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Norte">
+  <programme start="20260318100000 +0100" stop="20260318230000 +0100" channel="Norte">
     <title lang="es">Pilotes</title>
-    <desc lang="es">20,40 Mdrd-Cty</desc>
+    <desc lang="es">18,25 Bar-Nwc</desc>
   </programme>
   <programme start="20260317100000 +0100" stop="20260317230000 +0100" channel="Sur">
     <title lang="es">Pilotes</title>
     <desc lang="es">20,40 Cty-Mdr</desc>
   </programme>
-  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="Pre mium">
+  <programme start="20260318100000 +0100" stop="20260318230000 +0100" channel="Pre mium">
     <title lang="es">Pilotes</title>
-    <desc lang="es">20,40 Mdrd-Cty</desc>
+    <desc lang="es">18,25 Bar-Nwc</desc>
   </programme>
   <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="W in+">
     <title lang="es">Pilotes</title>
