@@ -14,7 +14,7 @@ http://201.216.147.90:8729/play/a01f
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Di recto
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbMONiAdacXDsNLh6zpGehW_BUDdeKfXyy1FrdXyXW6z2/ts
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte
-http://201.216.147.90:8729/play/a0p0 
+http://181.224.200.5:2277/play/a02p/index.m3u8 
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte1
 http://201.216.147.90:8729/play/a0p0
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur
