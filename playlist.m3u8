@@ -22,7 +22,7 @@ http://201.216.147.90:8729/play/a0p0
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur
 http://38.224.73.146:8000/play/a10u/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur1
-http://177.93.46.245:50000/play/a00e/index.m3u8
+http://201.190.41.246:58002/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Pre mium
 http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Pre mium1
