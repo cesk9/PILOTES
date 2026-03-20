@@ -51,7 +51,7 @@
     <title lang="es">Pilotes</title>
     <desc lang="es">21,00 Vll-Rso</desc>
   </programme>
-  <programme start="20260321100000 +0100" stop="2026021230000 +0100" channel="De portes">
+  <programme start="20260321100000 +0100" stop="20260321230000 +0100" channel="De portes">
     <title lang="es">Pilotes</title>
     <desc lang="es">
       14,00 Elc-Mall
