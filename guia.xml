@@ -47,22 +47,26 @@
     <title lang="es">Rodes</title>
     <desc lang="es">08,00 Ca rrera F  1</desc>
   </programme>
-  <programme start="20260314100000 +0100" stop="20260314230000 +0100" channel="De portes">
+   <programme start="20260320100000 +0100" stop="2026020230000 +0100" channel="De portes">
+    <title lang="es">Pilotes</title>
+    <desc lang="es">21,00 Vll-Rso</desc>
+  </programme>
+  <programme start="20260321100000 +0100" stop="2026021230000 +0100" channel="De portes">
     <title lang="es">Pilotes</title>
     <desc lang="es">
-      14,00 Gi-Bilb
-      16,00 At Mad-Geta
-      18,25 Ovi-Val
-      20,30 Mad-Elc
+      14,00 Elc-Mall
+      16,00 Esp-Geta
+      18,25 Osa-Gi
+      20,30 Sev-Val
     </desc>
   </programme>
-  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="De portes">
+  <programme start="20260322100000 +0100" stop="20260322230000 +0100" channel="De portes">
     <title lang="es">Pilotes</title>
     <desc lang="es">
-      14,00 Mll-Esp
-      16,00 Bar-Sev
-      18,25 Bet-Cel
-      20,30 Rso-Osa
+      14,00 Bar-Ray
+      16,00 Cel-Alv
+      18,25 Bil-Bet
+      20,30 Mad-Atl
     </desc>
   </programme>
 </tv>
