@@ -20,11 +20,11 @@ http://181.209.169.226:1900/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte2
 http://201.216.147.90:8729/play/a0p0
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur
-http://38.224.73.146:8000/play/a10u/index.m3u8
+http://205.235.6.29:8000/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur1
 http://181.78.20.119:58002/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur2
-http://205.235.6.29:8000/play/a0wk/index.m3u8
+http://38.224.73.146:8000/play/a10u/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Pre mium
 http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Pre mium1
@@ -37,6 +37,8 @@ http://201.219.193.210:3002/play/a0s6
 http://190.60.37.118:4000/play/a0bw
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,F  1
 http://pwhtte.top:8080/live/19174255671725/11745323493614/57486.m3u8
+#EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,Mo G P
+http://pwhtte.top:8080/live/19174255671725/11745323493614/70905.m3u8
 
 
 
