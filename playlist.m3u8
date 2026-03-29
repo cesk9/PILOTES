@@ -1,4 +1,4 @@
-#EXTM3U
+i#EXTM3U
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,De portes
 http://prem-blast.com:80/Charlie123/Charlie321/235378
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,De portes1
@@ -52,6 +52,8 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Dos
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Dos1
+http://190.60.52.28:5001/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,DosN
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192189.ts
 #EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Tres
 http://201.219.193.210:3002/play/a0s6
