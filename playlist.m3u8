@@ -19,9 +19,9 @@ http://186.33.1.71:8000/play/a03u/index.m3u8
 http://201.216.147.90:8729/play/a01f
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Mvt.png" ,M ovis tar
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269253.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,M ovis tar1
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,D azn
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269252.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,D azn
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,D azn1
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/124779.ts
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Di recto
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbMONiAdacXDsNLh6zpGehW_BUDdeKfXyy1FrdXyXW6z2/ts
@@ -61,13 +61,13 @@ http://190.60.52.28:5001/play/a094/index.m3u8
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192191.ts
 #EXTINF:-1 tvg-id="W in+" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn+.png" ,W in+
 http://190.60.37.118:4000/play/a0bw
-#EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,F  1
+#EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,F  1
 http://pwhtte.top:8080/live/19174255671725/11745323493614/57486.m3u8
-#EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,F  11
+#EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,F  11
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/143084.ts
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sk.png" ,F  111
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/143282.ts
-#EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dzn.png" ,Mo G P
+#EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,Mo G P
 http://pwhtte.top:8080/live/19174255671725/11745323493614/70905.m3u8
 
 
