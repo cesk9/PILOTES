@@ -27,31 +27,33 @@
   </channel>
 
   <!-- Definición de la Programación (Programas) -->
-  <programme start="20260318100000 +0100" stop="20260318230000 +0100" channel="Norte">
+  <programme start="20260407100000 +0100" stop="20260408230000 +0200" channel="Norte">
     <title lang="es">Pilotes</title>
-    <desc lang="es">18,25 Bar-Nwc</desc>
+    <desc lang="es">Martes 21,00 Mad-Bay</desc>
+    <desc lang="es">Miercoles 21,00 Bar-AtM</desc>
   </programme>
-  <programme start="20260317100000 +0100" stop="20260317230000 +0100" channel="Sur">
+  <programme start="20260407100000 +0100" stop="20260407230000 +0200" channel="Sur">
     <title lang="es">Pilotes</title>
-    <desc lang="es">20,40 Cty-Mdr</desc>
+    <desc lang="es">Martes 21,00 Mad-Bay</desc>
   </programme>
-  <programme start="20260318100000 +0100" stop="20260318230000 +0100" channel="Pre mium">
+  <programme start="20260407100000 +0100" stop="20260408230000 +0200" channel="Pre mium">
     <title lang="es">Pilotes</title>
-    <desc lang="es">18,25 Bar-Nwc</desc>
+    <desc lang="es">Martes 21,00 Mad-Bay</desc>
+    <desc lang="es">Miercoles 21,00 Bar-AtM</desc>
   </programme>
-  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="W in+">
+  <programme start="20260311100000 +0100" stop="20260311230000 +0200" channel="W in+">
     <title lang="es">Pilotes</title>
     <desc lang="es">21,00 Mdrd-Cty</desc>
   </programme>
-  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="F  1">
+  <programme start="20260315100000 +0100" stop="20260315230000 +0200" channel="F  1">
     <title lang="es">Rodes</title>
     <desc lang="es">08,00 Ca rrera F  1</desc>
   </programme>
-  <programme start="20260403100000 +0100" stop="20260403230000 +0100" channel="De portes">
+  <programme start="20260403100000 +0100" stop="20260403230000 +0200" channel="De portes">
     <title lang="es">Pilotes</title>
     <desc lang="es">21,00 Ray-Elc</desc>
   </programme>
-  <programme start="20260404100000 +0100" stop="20260404230000 +0100" channel="De portes">
+  <programme start="20260404100000 +0100" stop="20260404230000 +0200" channel="De portes">
     <title lang="es">Pilotes</title>
     <desc lang="es">
       14,00 Cty-Liv
@@ -60,7 +62,7 @@
       21,00 AtM-Bar
     </desc>
   </programme>
-  <programme start="20260405100000 +0100" stop="20260405230000 +0100" channel="De portes">
+  <programme start="20260405100000 +0100" stop="20260405230000 +0200" channel="De portes">
     <title lang="es">Pilotes</title>
     <desc lang="es">
       14,00 Get-Bil
