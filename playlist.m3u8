@@ -37,6 +37,14 @@ http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/124779.ts
 http://iot.kituio.fun:80/play/F83TZ8dKe9o6kkyE9XBFbMONiAdacXDsNLh6zpGehW_BUDdeKfXyy1FrdXyXW6z2/ts
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Ds.png" ,Di recto1
 https://tvgolat.org:8443/vera001/29112023/244286.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Mtv.png" ,L Cam peo nes
+http://pwhtte.top:8080/live/19174255671725/11745323493614/57560.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Mtv.png" ,L Cam peo nes1
+http://pwhtte.top:8080/live/19174255671725/11745323493614/54531.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Mtv.png" ,L Cam peo nes2
+http://vpakcchheh.top:8080/live/VIP0170173930290817/41739302908171/264.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Mtv.png" ,L Cam peo nes3
+http://vpakcchheh.top:8080/live/VIP0170173930290817/41739302908171/265.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte
 http://181.119.111.25:4000/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte1
