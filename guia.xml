@@ -19,8 +19,8 @@
   <channel id="Pre mium">
     <display-name lang="es">Pre mium</display-name>
   </channel>
-  <channel id="W in+">
-    <display-name lang="es">W in+</display-name>
+  <channel id="L Cam peo nes">
+    <display-name lang="es">L Cam peo nes</display-name>
   </channel>
   <channel id="F  1">
     <display-name lang="es">F  1</display-name>
@@ -45,9 +45,12 @@
       21,00 Bar-AtM Miercoles
     </desc>
   </programme>
-  <programme start="20260311100000 +0200" stop="20260311230000 +0200" channel="W in+">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+  <programme start="20260407100000 +0200" stop="20260408230000 +0200" channel="L Cam peo nes">
+    <title lang="es">Cham pions</title>
+    <desc lang="es">
+      21,00 Mad-Bay Martes
+      21,00 Bar-AtM Miercoles
+    </desc>
   </programme>
   <programme start="20260315100000 +0200" stop="20260315230000 +0200" channel="F  1">
     <title lang="es">Rodes</title>
