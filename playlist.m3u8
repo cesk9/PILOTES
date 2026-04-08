@@ -51,6 +51,8 @@ http://181.119.111.25:4000/play/a0dj/index.m3u8
 http://181.209.169.226:1900/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte2
 http://201.216.147.90:8729/play/a0p0
+#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte3
+http://45.238.30.42:5050/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur
 http://205.235.6.29:8000/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Sur1
