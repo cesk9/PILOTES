@@ -34,9 +34,9 @@
       21,00 Bar-AtM Miercoles
     </desc>
   </programme>
-  <programme start="20260407100000 +0200" stop="20260407230000 +0200" channel="Sur">
+  <programme start="20260410100000 +0200" stop="20260410230000 +0200" channel="Sur">
     <title lang="es">Cham pions</title>
-    <desc lang="es">Martes 21,00 Mad-Bay</desc>
+    <desc lang="es">21,00 Mad-Gir</desc>
   </programme>
   <programme start="20260407100000 +0200" stop="20260408230000 +0200" channel="Pre mium">
     <title lang="es">Cham pions</title>
@@ -60,22 +60,22 @@
     <title lang="es">Li ga</title>
     <desc lang="es">21,00 Ray-Elc</desc>
   </programme>
-  <programme start="20260404100000 +0200" stop="20260404230000 +0200" channel="De portes">
+  <programme start="20260410100000 +0200" stop="20260410230000 +0200" channel="De portes">
     <title lang="es">Li ga</title>
     <desc lang="es">
-      14,00 Cty-Liv
-      16,15 Mall-Mad
-      18,30 Bet-Esp
-      21,00 AtM-Bar
+      14,00 RSo-Ala
+      16,15 Elc-Val
+      18,30 Bar-Esp
+      21,00 Sev-AtM
     </desc>
   </programme>
-  <programme start="20260405100000 +0200" stop="20260405230000 +0200" channel="De portes">
+  <programme start="20260411100000 +0200" stop="20260411230000 +0200" channel="De portes">
     <title lang="es">Li ga</title>
     <desc lang="es">
-      14,00 Get-Bil
-      16,15 Val-Cel
-      18,30 Ov-Sev
-      21,00 Ala-Osa
+      14,00 Osa-Bet
+      16,15 Mall-Ray
+      18,30 Cel-Ovi
+      21,00 Bil-Vill
     </desc>
   </programme>
 </tv>
