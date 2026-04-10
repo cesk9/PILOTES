@@ -50,7 +50,9 @@ http://181.119.111.25:4000/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte1
 http://179.63.6.15:8002/play/a02r
 #EXTINF:-1,ESPN HD
-http://181.224.200.5:2277/play/a02p/index.m3u8
+http://167.250.223.26:8085/play/a0an/index.m3u8
+#EXTINF:-1,ESPN HD
+http://167.250.223.26:8085/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte2
 http://201.216.147.90:8729/play/a0p0
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte3
