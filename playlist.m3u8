@@ -52,7 +52,7 @@ http://179.63.6.15:8002/play/a02r
 #EXTINF:-1 ,ESPN sur
 http://179.1.240.1:18002/play/a01i
 #EXTINF:-1 ,ESPN HD
-http://167.250.223.26:9998/play/a0rm/index.m3u8
+http://161.132.51.102:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte2
 http://201.216.147.90:8729/play/a0p0
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte3
