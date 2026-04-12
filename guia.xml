@@ -34,9 +34,9 @@
       21,00 Bar-AtM Miercoles
     </desc>
   </programme>
-  <programme start="20260410100000 +0200" stop="20260410230000 +0200" channel="Sur">
+  <programme start="20260414100000 +0200" stop="20260414230000 +0200" channel="Sur">
     <title lang="es">Cham pions</title>
-    <desc lang="es">21,00 Mad-Gir</desc>
+    <desc lang="es">21,00 AtM-Bar</desc>
   </programme>
   <programme start="20260407100000 +0200" stop="20260408230000 +0200" channel="Pre mium">
     <title lang="es">Cham pions</title>
