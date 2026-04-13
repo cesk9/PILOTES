@@ -27,29 +27,29 @@
   </channel>
 
   <!-- Definición de la Programación (Programas) -->
-  <programme start="20260407100000 +0200" stop="20260408230000 +0200" channel="Norte">
+  <programme start="20260414100000 +0200" stop="20260415230000 +0200" channel="Norte">
     <title lang="es">Cham pions</title>
     <desc lang="es">
-      21,00 Mad-Bay Martes
-      21,00 Bar-AtM Miercoles
+      21,00 AtM-Bar Martes
+      21,00 Bay-Mad Miercoles
     </desc>
   </programme>
   <programme start="20260414100000 +0200" stop="20260414230000 +0200" channel="Sur">
     <title lang="es">Cham pions</title>
     <desc lang="es">21,00 AtM-Bar</desc>
   </programme>
-  <programme start="20260407100000 +0200" stop="20260408230000 +0200" channel="Pre mium">
+  <programme start="20260414100000 +0200" stop="20260415230000 +0200" channel="Pre mium">
     <title lang="es">Cham pions</title>
    <desc lang="es">
-      21,00 Mad-Bay Martes
-      21,00 Bar-AtM Miercoles
+      21,00 AtM-Bar Martes
+      21,00 Bay-Mad Miercoles
     </desc>
   </programme>
-  <programme start="20260407100000 +0200" stop="20260408230000 +0200" channel="L Cam peo nes">
+  <programme start="20260414100000 +0200" stop="20260415230000 +0200" channel="L Cam peo nes">
     <title lang="es">Cham pions</title>
     <desc lang="es">
-      21,00 Mad-Bay Martes
-      21,00 Bar-AtM Miercoles
+      21,00 AtM-Bar Martes
+      21,00 Bay-Mad Miercoles
     </desc>
   </programme>
   <programme start="20260315100000 +0200" stop="20260315230000 +0200" channel="F  1">
