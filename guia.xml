@@ -56,17 +56,20 @@
     <title lang="es">Rodes</title>
     <desc lang="es">08,00 Ca rrera F  1</desc>
   </programme>
-  <programme start="20260403100000 +0200" stop="20260403230000 +0200" channel="De portes">
-    <title lang="es">Li ga</title>
-    <desc lang="es">21,00 Ray-Elc</desc>
-  </programme>
-  <programme start="20260411100000 +0200" stop="20260411230000 +0200" channel="De portes">
+  <programme start="20260421100000 +0200" stop="20260421230000 +0200" channel="De portes">
     <title lang="es">Li ga</title>
     <desc lang="es">
-      14,00 RSo-Ala
-      16,15 Elc-Val
-      18,30 Bar-Esp
-      21,00 Sev-AtM
+      19,00 Bil-Osa
+      21,00 Mad-Ala
+    </desc>
+  </programme>
+  <programme start="20260422100000 +0200" stop="20260422230000 +0200" channel="De portes">
+    <title lang="es">Li ga</title>
+    <desc lang="es">
+      14,00 
+      16,15 
+      18,30 Elc-AtM
+      21,00 Bar-Cel
     </desc>
   </programme>
   <programme start="20260412100000 +0200" stop="20260412230000 +0200" channel="De portes">
