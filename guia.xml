@@ -56,14 +56,18 @@
     <title lang="es">Rodes</title>
     <desc lang="es">08,00 Ca rrera F  1</desc>
   </programme>
-  <programme start="20260421100000 +0200" stop="20260421230000 +0200" channel="De portes">
+  <programme start="20260421100000 +0200" stop="20260422230000 +0200" channel="De portes">
     <title lang="es">Li ga</title>
     <desc lang="es">
+      Martes
       19,00 Bil-Osa
-      21,00 Mad-Ala
+      21,30 Mad-Ala
+      Miercoles
+      19,00 Elc-AtM
+      21,30 Bar-Cel
     </desc>
   </programme>
-  <programme start="20260422100000 +0200" stop="20260422230000 +0200" channel="De portes">
+  <programme start="20260412100000 +0200" stop="20260412230000 +0200" channel="De portes">
     <title lang="es">Li ga</title>
     <desc lang="es">
       14,00 
