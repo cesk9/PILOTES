@@ -74,7 +74,7 @@ http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Pre mium1
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Pre mium2
-https://primevip.day:443/MikePad23/TKWvdARDE8/17208
+http://181.78.82.6:46090/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Dos
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Dos1
