@@ -19,54 +19,70 @@
   <channel id="Pre mium">
     <display-name lang="es">Pre mium</display-name>
   </channel>
-  <channel id="W in+">
-    <display-name lang="es">W in+</display-name>
+  <channel id="L Cam peo nes">
+    <display-name lang="es">L Cam peo nes</display-name>
   </channel>
   <channel id="F  1">
     <display-name lang="es">F  1</display-name>
   </channel>
 
   <!-- Definición de la Programación (Programas) -->
-  <programme start="20260318100000 +0100" stop="20260318230000 +0100" channel="Norte">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">18,25 Bar-Nwc</desc>
+  <programme start="20260414100000 +0200" stop="20260415230000 +0200" channel="Norte">
+    <title lang="es">Cham pions</title>
+    <desc lang="es">
+      21,00 AtM-Bar Martes
+      21,00 Bay-Mad Miercoles
+    </desc>
   </programme>
-  <programme start="20260317100000 +0100" stop="20260317230000 +0100" channel="Sur">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">20,40 Cty-Mdr</desc>
+  <programme start="20260419100000 +0200" stop="20260419230000 +0200" channel="Sur">
+    <title lang="es">Cham pions</title>
+    <desc lang="es">17,20 Cty-Ars</desc>
   </programme>
-  <programme start="20260318100000 +0100" stop="20260318230000 +0100" channel="Pre mium">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">18,25 Bar-Nwc</desc>
+  <programme start="20260414100000 +0200" stop="20260415230000 +0200" channel="Pre mium">
+    <title lang="es">Cham pions</title>
+   <desc lang="es">
+      21,00 AtM-Bar Martes
+      21,00 Bay-Mad Miercoles
+    </desc>
   </programme>
-  <programme start="20260311100000 +0100" stop="20260311230000 +0100" channel="W in+">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Mdrd-Cty</desc>
+  <programme start="20260414100000 +0200" stop="20260415230000 +0200" channel="L Cam peo nes">
+    <title lang="es">Cham pions</title>
+    <desc lang="es">
+      21,00 AtM-Bar Martes
+      21,00 Bay-Mad Miercoles
+    </desc>
   </programme>
-  <programme start="20260315100000 +0100" stop="20260315230000 +0100" channel="F  1">
+  <programme start="20260315100000 +0200" stop="20260315230000 +0200" channel="F  1">
     <title lang="es">Rodes</title>
     <desc lang="es">08,00 Ca rrera F  1</desc>
   </programme>
-  <programme start="20260403100000 +0100" stop="20260403230000 +0100" channel="De portes">
-    <title lang="es">Pilotes</title>
-    <desc lang="es">21,00 Ray-Elc</desc>
-  </programme>
-  <programme start="20260404100000 +0100" stop="20260404230000 +0100" channel="De portes">
-    <title lang="es">Pilotes</title>
+  <programme start="20260421100000 +0200" stop="20260422230000 +0200" channel="De portes">
+    <title lang="es">Li ga</title>
     <desc lang="es">
-      14,00 Cty-Liv
-      16,15 Mall-Mad
-      18,30 Bet-Esp
-      21,00 AtM-Bar
+      Martes
+      19,00 Bil-Osa
+      21,30 Mad-Ala
+      Miercoles
+      19,00 Elc-AtM
+      21,30 Bar-Cel
     </desc>
   </programme>
-  <programme start="20260405100000 +0100" stop="20260405230000 +0100" channel="De portes">
-    <title lang="es">Pilotes</title>
+  <programme start="20260412100000 +0200" stop="20260412230000 +0200" channel="De portes">
+    <title lang="es">Li ga</title>
     <desc lang="es">
-      14,00 Get-Bil
-      16,15 Val-Cel
-      18,30 Ov-Sev
-      21,00 Ala-Osa
+      14,00 
+      16,15 
+      18,30 Elc-AtM
+      21,00 Bar-Cel
+    </desc>
+  </programme>
+  <programme start="20260412100000 +0200" stop="20260412230000 +0200" channel="De portes">
+    <title lang="es">Li ga</title>
+    <desc lang="es">
+      14,00 Osa-Bet
+      16,15 Mall-Ray
+      18,30 Cel-Ovi
+      21,00 Bil-Vill
     </desc>
   </programme>
 </tv>
