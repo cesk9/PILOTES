@@ -1,98 +1,99 @@
-#EXTM1U
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,De portes
-http://prem-blast.com:80/Charlie121/Charlie121/215178
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,De portes1
-https://primevip.day:441/MikePad21/TKWvdARDE8/17689
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,De portes2
-https://primevip.day:441/MikePad21/TKWvdARDE8/21945
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,De portes1
-http://galileatv.top:8080/live/all@e9*1R/qGpfHSW/29768.m1u8
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,De portes4
-http://wickediptv.xyz:2086/live/4c89f074e7851ed7/049828/56440.m1u8
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,S ky
-http://190.92.10.66:4000/play/a001/index.m1u8
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,S ky1
-http://186.11.1.71:8000/play/a01u/index.m1u8
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,S ky2
+#EXTM3U
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,De portes
+http://prem-blast.com:80/Charlie123/Charlie321/235378
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,De portes1
+https://primevip.day:443/MikePad23/TKWvdARDE8/17689
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,De portes2
+https://primevip.day:443/MikePad23/TKWvdARDE8/23945
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,De portes3
+http://galileatv.top:8080/live/all@e9*3R/qGpfHSW/29768.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,De portes4
+http://wickediptv.xyz:2086/live/4c89f074e7851ed7/049828/56440.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,S ky
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,S ky1
+http://186.33.1.71:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,S ky2
 http://201.216.147.90:8729/play/a01f
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,S ky1
-https://primevip.day:441/MikePad21/TKWvdARDE8/26985
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,S ky4
-https://primevip.day:441/MikePad21/TKWvdARDE8/17091
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,Di recto
-https://primevip.day:441/MikePad21/TKWvdARDE8/17168
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,Di recto1
-https://primevip.day:441/MikePad21/TKWvdARDE8/16274
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,Di recto2
-https://primevip.day:441/MikePad21/TKWvdARDE8/17220
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,M ovis tar
-http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269251.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,M ovis tar1
-http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/269251.ts
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,S ky3
+https://primevip.day:443/MikePad23/TKWvdARDE8/26985
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,S ky4
+https://primevip.day:443/MikePad23/TKWvdARDE8/17093
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,Di recto
+https://primevip.day:443/MikePad23/TKWvdARDE8/17168
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,Di recto1
+https://primevip.day:443/MikePad23/TKWvdARDE8/16274
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,Di recto2
+https://primevip.day:443/MikePad23/TKWvdARDE8/17220
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,M ovis tar
+http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269253.ts
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,M ovis tar1
+http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/269253.ts
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,M ovis tar2
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269252.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,M ovis tar1
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,M ovis tar3
 http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/269252.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,D azn
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,D azn
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/124779.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/1.png" ,D azn1
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/3.png" ,D azn1
 http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/124779.ts
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,L Cam peo nes
-http://pwhtte.top:8080/live/19174255671725/11745121491614/57560.m1u8
+http://pwhtte.top:8080/live/19174255671725/11745323493614/57560.m3u8
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,L Cam peo nes1
-http://pwhtte.top:8080/live/19174255671725/11745121491614/54511.m1u8
+http://pwhtte.top:8080/live/19174255671725/11745323493614/54531.m3u8
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,L Cam peo nes2
-http://vpakcchheh.top:8080/live/VIP0170171910290817/41719102908171/264.m1u8
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,L Cam peo nes1
-http://vpakcchheh.top:8080/live/VIP0170171910290817/41719102908171/265.m1u8
+http://vpakcchheh.top:8080/live/VIP0170173930290817/41739302908171/264.m3u8
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,L Cam peo nes3
+http://vpakcchheh.top:8080/live/VIP0170173930290817/41739302908171/265.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte
-http://181.119.111.25:4000/play/a0dj/index.m1u8
+http://181.119.111.25:4000/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte1
-http://179.61.6.15:8002/play/a02r
+http://179.63.6.15:8002/play/a02r
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte2
-http://45.218.10.42:5050/play/a074/index.m1u8
-#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte1
+http://45.238.30.42:5050/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte3
 http://201.216.147.90:8729/play/a0p0
 #EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spn.png" ,Norte4
-http://201.190.41.246:58002/play/a01t/index.m1u8
+http://201.190.41.246:58002/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,Sur
-https://primevip.day:441/MikePad21/TKWvdARDE8/17291
+https://primevip.day:443/MikePad23/TKWvdARDE8/17293
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,Sur1
-http://181.78.20.119:58002/play/a01c/index.m1u8
+http://181.78.20.119:58002/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,Sur2
-http://181.78.8.199:8000/play/a0b1/index.m1u8
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,Sur1
-http://190.60.17.118:4000/play/a0b1
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,Sur3
+http://190.60.37.118:4000/play/a0b1
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,Sur4
-https://primevip.day:441/MikePad21/TKWvdARDE8/17140
+https://primevip.day:443/MikePad23/TKWvdARDE8/17140
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/12.png" ,Sur5
 http://179.1.240.1:18002/play/a01i
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spp.png" ,Pre mium
-http://205.215.6.29:8000/play/a0wl/index.m1u8
+http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spp.png" ,Pre mium1
-http://205.215.6.29:8000/play/a0pz/index.m1u8
+http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spp.png" ,Pre mium2
-http://181.78.82.6:46090/play/a075/index.m1u8
+http://181.78.82.6:46090/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp2.png" ,Dos
-http://191.97.49.82:8001/play/a00m/index.m1u8
+http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp2.png" ,Dos1
-http://181.78.82.6:46090/play/a08i/index.m1u8
+http://181.78.82.6:46090/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp2.png" ,DosN
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192189.ts
-#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp1.png" ,Tres
-http://181.78.82.6:46090/play/a00v/index.m1u8
-#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp1.png" ,Tres1
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp3.png" ,Tres
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp3.png" ,Tres1
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192191.ts
 #EXTINF:-1 tvg-id="W in+" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn+.png" ,W in+
-http://190.60.17.118:4000/play/a0bw
+http://190.60.37.118:4000/play/a0bw
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/f.png" ,F  1
-http://pwhtte.top:8080/live/19174255671725/11745121491614/57486.m1u8
+http://pwhtte.top:8080/live/19174255671725/11745323493614/57486.m3u8
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/f.png" ,F  11
-http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/141084.ts
+http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/143084.ts
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/f.png" ,F  111
-http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/141282.ts
+http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/143282.ts
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/m.png" ,Mo G P
-http://pwhtte.top:8080/live/19174255671725/11745121491614/70905.m1u8
+http://pwhtte.top:8080/live/19174255671725/11745323493614/70905.m3u8
+
 
 
 
