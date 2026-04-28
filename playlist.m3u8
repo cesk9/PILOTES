@@ -79,9 +79,9 @@ http://191.97.49.82:8001/play/a00m/index.m3u8
 http://181.78.82.6:46090/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp2.png" ,DosN
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192189.ts
-#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp4.png" ,Tres
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp3.png" ,Tres
 http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp4.png" ,Tres1
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp3.png" ,Tres1
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192191.ts
 #EXTINF:-1 tvg-id="W in+" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn+.png" ,W in+
 http://190.60.37.118:4000/play/a0bw
