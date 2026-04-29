@@ -58,14 +58,12 @@ http://201.190.41.246:58002/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur
 https://primevip.day:443/MikePad23/TKWvdARDE8/17293
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur1
-http://181.78.20.119:58002/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur2
 http://181.78.8.199:8000/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur3
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur2
 http://190.60.37.118:4000/play/a0b1
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur4
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur3
 https://primevip.day:443/MikePad23/TKWvdARDE8/17140
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur5
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/11.png" ,Sur4
 http://179.1.240.1:18002/play/a01i
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spp.png" ,Pre mium
 http://205.235.6.29:8000/play/a0wl/index.m3u8
