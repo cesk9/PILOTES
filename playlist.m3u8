@@ -29,9 +29,9 @@ https://primevip.day:443/MikePad23/TKWvdARDE8/17220
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269253.ts
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sevesp.png" ,M ovis tar1
 http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/269253.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,M ovis tar2
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/dz.png" ,M ovis tar2
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269252.ts
-#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,M ovis tar3
+#EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/dz.png" ,M ovis tar3
 http://flexlive.lat:8080//live/Gloria08/XgjQGskHSYum/269252.ts
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sevesp.png" ,D azn
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/124779.ts
@@ -65,23 +65,23 @@ http://190.60.37.118:4000/play/a0b1
 https://primevip.day:443/MikePad23/TKWvdARDE8/17140
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sps.png" ,Sur4
 http://179.1.240.1:18002/play/a01i
-#EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spp.png" ,Pre mium
+#EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spp.png" ,Pre mium
 http://205.235.6.29:8000/play/a0wl/index.m3u8
-#EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spp.png" ,Pre mium1
+#EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spp.png" ,Pre mium1
 http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Spp.png" ,Pre mium2
+#EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spp.png" ,Pre mium2
 http://181.78.82.6:46090/play/a075/index.m3u8
-#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp2.png" ,Dos
+#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos
 http://191.97.49.82:8001/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp2.png" ,Dos1
+#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos1
 http://181.78.82.6:46090/play/a08i/index.m3u8
-#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp2.png" ,DosN
+#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,DosN
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192189.ts
-#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp3.png" ,Tres
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Tres
 http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Sp3.png" ,Tres1
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Tres1
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192191.ts
-#EXTINF:-1 tvg-id="W in+" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Wn+.png" ,W in+
+#EXTINF:-1 tvg-id="W in+" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/wn+.png" ,W in+
 http://190.60.37.118:4000/play/a0bw
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/f.png" ,F  1
 http://pwhtte.top:8080/live/19174255671725/11745323493614/57486.m3u8
