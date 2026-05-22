@@ -81,6 +81,10 @@ http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192189.ts
 http://181.78.82.6:46090/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Tres1
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192191.ts
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Siete
+http://181.224.255.210:8001/play/a0m5/index.m3u8?hls
+#EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Siete1
+http://190.14.249.223:17032/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="W in+" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/wn+.png" ,W in+
 http://190.60.37.118:4000/play/a0bw
 #EXTINF:-1 tvg-id="F  1" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/f.png" ,F  1
