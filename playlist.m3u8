@@ -60,11 +60,11 @@ https://primevip.day:443/MikePad23/TKWvdARDE8/17293
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sps.png" ,Sur1
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sps.png" ,Sur2
-http://152.230.246.26:8001/play/a01h/index.m3u8
+http://190.14.249.223:17032/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sps.png" ,Sur3
 https://primevip.day:443/MikePad23/TKWvdARDE8/17140
 #EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sps.png" ,Sur4
-http://179.1.240.1:18002/play/a01i
+http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spp.png" ,Pre mium
 http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spp.png" ,Pre mium1
