@@ -70,7 +70,7 @@ http://205.235.6.29:8000/play/a0wl/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spp.png" ,Pre mium1
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spp.png" ,Pre mium2
-http://181.78.82.6:46090/play/a075/index.m3u8
+http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos1
