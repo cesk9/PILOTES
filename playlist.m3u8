@@ -74,7 +74,7 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos1
-http://152.230.246.26:8001/play/a019/index.m3u8
+http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,DosN
 http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192189.ts
 #EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Tres
