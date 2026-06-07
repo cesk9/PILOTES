@@ -87,8 +87,8 @@ http://148.222.230.201:8000/play/a0r2/index.m3u8?application/x-rtp
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos1
 http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/18515
-#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,DosN
-http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/192189.ts
+#EXTINF:-1 tvg-id="Dos" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp2.png" ,Dos2
+http://179.60.51.134:8888/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Tres
 http://cauria2020.voodvooxqha.top:8080/VIP0137170975343755/a0728f6e9dde/4759
 #EXTINF:-1 tvg-id="Tres" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp3.png" ,Tres1
