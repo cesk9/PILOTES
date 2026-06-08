@@ -55,25 +55,25 @@ http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/57356
 http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/54531
 #EXTINF:-1 tvg-id="De portes" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/mvt.png" ,L Cam peo nes3
 http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/57363
-#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Norte
+#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte
 http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/18516
-#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Norte1
+#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte1
 http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/52524
-#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Norte2
+#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte2
 http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/58824
-#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Norte3
+#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte3
 http://201.216.147.90:8729/play/a0p0
-#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Norte4
+#EXTINF:-1 tvg-id="Norte" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphdn.png" ,Norte4
 http://201.190.41.246:58002/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Sur
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur
 http://vivaelbetis.neospaxy.top:8080/6131771507557/67766f80687d/58823
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Sur1
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur1
 http://181.78.8.199:8000/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Sur2
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur2
 http://190.14.249.223:17032/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Sur3
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur3
 https://primevip.day:443/MikePad23/TKWvdARDE8/17140
-#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphd.png" ,Sur4
+#EXTINF:-1 tvg-id="Sur" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sphds.png" ,Sur4
 http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
 #EXTINF:-1 tvg-id="Pre mium" tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/sp+.png" ,Pre mium
 http://205.235.6.29:8000/play/a0wl/index.m3u8
