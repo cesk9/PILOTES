@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spdp.png" ,De portes
-http://prem-blast.com:80/Charlie123/Charlie321/235378
+http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spdp.png" ,De portes1
 http://tvgolat.org:8080/Erikapena83/7sJR3aBzNn/160760
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spdp.png" ,De portes2
@@ -10,7 +10,7 @@ http://wp.strmz.cc:80/Brendan1/Brendan1/1074139.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spdp.png" ,De portes4
 http://190.115.3.141:9000/play/a0wm/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spdp.png" ,De portes5
-http://deluxtv5.com/live/536774281/P3EJXLJ/71925.ts
+http://168.228.44.241:9998/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/spdp.png" ,De portes6
 http://lucidhosting.xyz:82/DonnaD/47d8sM9qQx3V/1990
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/Dz.png" ,D azn
