@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,De portes1
 http://abc.gentv.to:8080/holigaonuno/DhK4Lw2VXy/11573
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,De portes1
-http://31.43.191.125:8080/restream/restream/280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,De portes2
 http://abc.gentv.to:8080/holigaonuno/DhK4Lw2VXy/11390
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cesk9/PILOTES/main/img/lg4.png" ,De portes3
