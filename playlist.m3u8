@@ -1,0 +1,265 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES
+http://102922.tvdev.club/live/TV-34393502/755236554760/48512.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ Liga Campeones FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/48514.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ Liga Campeones FHD (HEVC)
+http://102922.tvdev.club/live/TV-34393502/755236554760/114287.m3u
+#EXTINF:-1 tvg-name="ES: (SD) M+ LIGA DE CAMPEONES"tvg-id="chapio.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57367
+#EXTINF:-1 tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES"tvg-id="M+LCAMPEONES"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57363
+#EXTINF:-1 tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES"tvg-id="chapio.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/54531
+#EXTINF:-1 tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES"tvg-id="IberaliaTV.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57356
+#EXTINF:-1 tvg-name="ES: (HD) M+ LIGA DE CAMPEONES"tvg-id="chapio.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png"group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57560
+#EXTINF:-1 tvg-name="ES: (HD) DAZN LALIGA"tvg-id="daznli.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/25125
+#EXTINF:-1 tvg-name="ES: (HD REPUESTO) DAZN LALIGA"tvg-id="IberaliaTV.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57344
+#EXTINF:-1 tvg-name="ES: (HD REPUESTO2) DAZN LALIGA"tvg-id=""tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="ES | LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/63431
+#EXTINF:-1 tvg-name="ES: (FHD) DAZN LALIGA"tvg-id="daznli.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="ES | LALIGA",ES: (FHD) DAZN LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/54668
+#EXTINF:-1 tvg-name="ES: (FHD REPUESTO) DAZN LALIGA"tvg-id="IberaliaTV.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png"group-title="ES | LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57359
+#EXTINF:-1 tvg-name="ES: DAZN LALIGA 2"tvg-id="13EMEHD"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png"group-title="ES | LALIGA",ES: DAZN LALIGA 2
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57476
+#EXTINF:-1 tvg-name="ES: (HD) M+ LALIGA"tvg-id="mliga.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5758
+#EXTINF:-1 tvg-name="ES: (HD REPUESTO) M+ LALIGA"tvg-id="IberaliaTV.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/54535
+#EXTINF:-1 tvg-name="ES: (FHD) M+ LALIGA"tvg-id="mliga.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/54532
+#EXTINF:-1 tvg-name="ES: (FHD REPUESTO) M+ LALIGA"tvg-id="MLaLiga.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png"group-title="ES | LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57362
+#EXTINF:-1 tvg-name="ES: M+ COPA DEL REY"tvg-id=""tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png"group-title="ES | LALIGA",ES: M+ COPA DEL REY
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/58303
+#EXTINF:-1 tvg-name="ES: (HD) DAZN F1"tvg-id="mvf1.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png"group-title="ES | DEPORTES",ES: (HD) DAZN F1
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57485
+#EXTINF:-1 tvg-name="ES: (HD REPUESTO) DAZN F1"tvg-id="DAZN F1"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png"group-title="ES | DEPORTES",ES: (HD REPUESTO) DAZN F1
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57484
+#EXTINF:-1 tvg-name="ES: (FHD) DAZN F1"tvg-id="mvf1.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png"group-title="ES | DEPORTES",ES: (FHD) DAZN F1
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57486
+#EXTINF:-1 tvg-name="ES: (FHD REPUESTO) DAZN F1"tvg-id="DAZN F1"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png"group-title="ES | DEPORTES",ES: (FHD REPUESTO) DAZN F1
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57483
+#EXTINF:-1 tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2"tvg-id="chap1.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png"group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/58115
+#EXTINF:-1 tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2"tvg-id="chap1.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png"group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5663
+#EXTINF:-1 tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3"tvg-id="chap2.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png"group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/58116
+#EXTINF:-1 tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3"tvg-id="chap2.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png"group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5664
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 4"tvg-id="M+LCAMPEON4"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5665
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 5"tvg-id="M+LCAMPEON5"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5666
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 6"tvg-id="M+LCAMPEON6"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5667
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 7"tvg-id="M+LCAMPEON7"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5668
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 8"tvg-id="M+LCAMPEON8"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5669
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 9"tvg-id="M+LCAMPEON9"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5670
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 10"tvg-id="M+LCAMPEON10"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5685
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 11"tvg-id="M+LCAMPEON11"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5686
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 12"tvg-id="M+LCAMPEON12"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5687
+#EXTINF:-1 tvg-name="ES: M+ LIGA DE CAMPEONES 13"tvg-id="M+LCAMPEON13"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png"group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/29360
+#EXTINF:-1 tvg-name="ES: DAZN MOTOGP FHD"tvg-id=""tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png"group-title="ES | DEPORTES",ES: DAZN MOTOGP FHD
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/70905
+#EXTINF:-1 tvg-name="ES: (FHD) DAZN 1"tvg-id="m1sd.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png"group-title="ES | DEPORTES",ES: (FHD) DAZN 1
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5589
+#EXTINF:-1 tvg-name="ES: (HD) DAZN 1"tvg-id="m1sd.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png"group-title="ES | DEPORTES",ES: (HD) DAZN 1
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57475
+#EXTINF:-1 tvg-name="ES: DAZN 2"tvg-id="m2sd.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png"group-title="ES | DEPORTES",ES: DAZN 2
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5590
+#EXTINF:-1 tvg-name="ES: DAZN 3"tvg-id="dazn3.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png"group-title="ES | DEPORTES",ES: DAZN 3
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5591
+#EXTINF:-1 tvg-name="ES: DAZN 4"tvg-id="dazn4.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png"group-title="ES | DEPORTES",ES: DAZN 4
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5592
+#EXTINF:-1 tvg-name="ES: (FHD) M+ LALIGA TV BAR"tvg-id="LaLigaTVBar.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png"group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV BAR
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5661
+#EXTINF:-1 tvg-name="ES: LALIGA TV HYPERMOTION"tvg-id="LALIGA TV HYPERMOTION"tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png"group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/25128
+#EXTINF:-1 tvg-name="ES: LALIGA TV HYPERMOTION 2"tvg-id="LALIGA TV HYPERMOTION 2"tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png"group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 2
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/25953
+#EXTINF:-1 tvg-name="ES: LALIGA TV HYPERMOTION 3"tvg-id="LaLiga SmartbankTV 3"tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png"group-title="ES | LALIGA",ES: LALIGA TV HYPERMOTION 3
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/25954
+#EXTINF:-1 tvg-name="ES: (FHD) M+ LALIGA TV 3"tvg-id="mlig2.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png"group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5652
+#EXTINF:-1 tvg-name="ES: (FHD) M+ LALIGA TV 2"tvg-id="mlig1.movistarplus.es"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png"group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/5651
+#EXTINF:-1 tvg-name="ES: M+ LALIGA TV 4"tvg-id="0"tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png"group-title="ES | LALIGA",ES: M+ LALIGA TV 4
+http://he0.tpxnzdppo.top:8080/8671765312124411/aa75c5d2fb19/57248
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV FHD (HEVC)
+http://102922.tvdev.club/live/TV-34393502/755236554760/112675.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/56222.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LaLiga
+http://102922.tvdev.club/live/TV-34393502/755236554760/48563.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| (EN PRUEBAS) M+ LALIGA HDR
+http://102922.tvdev.club/live/TV-34393502/755236554760/462273.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 2 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/48505.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 2
+http://102922.tvdev.club/live/TV-34393502/755236554760/48504.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 3 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/48565.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 3
+http://102922.tvdev.club/live/TV-34393502/755236554760/48506.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN LALIGA FHD (HEVC)
+http://102922.tvdev.club/live/TV-34393502/755236554760/109316.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN LALIGA FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/109317.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN LALIGA
+http://102922.tvdev.club/live/TV-34393502/755236554760/109319.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN LALIGA 2 HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/109320.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN LALIGA 2 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/109321.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN LALIGA 2 SD
+http://102922.tvdev.club/live/TV-34393502/755236554760/109323.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN LaLiga 3 HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/458479.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN LaLiga 3 SD
+http://102922.tvdev.club/live/TV-34393502/755236554760/458478.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN LaLiga 4 HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/458477.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN LaLiga 4 SD
+http://102922.tvdev.club/live/TV-34393502/755236554760/458476.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN LaLiga 5 HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/458475.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN LaLiga 5 SD
+http://102922.tvdev.club/live/TV-34393502/755236554760/458474.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ Copa Del Rey FHD - HEVC
+http://102922.tvdev.club/live/TV-34393502/755236554760/440974.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ Copa Del Rey FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/444569.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ Copa Del Rey
+http://102922.tvdev.club/live/TV-34393502/755236554760/440975.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| LALIGA TV BAR FHD - HEVC
+http://102922.tvdev.club/live/TV-34393502/755236554760/101681.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| LALIGA TV BAR
+http://102922.tvdev.club/live/TV-34393502/755236554760/101682.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| SKY SPORTS LALIGA FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/445398.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| SKY SPORTS LALIGA HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/445397.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| SKY SPORTS LALIGA SD
+http://102922.tvdev.club/live/TV-34393502/755236554760/445396.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 2 FHD (HEVC)
+http://102922.tvdev.club/live/TV-34393502/755236554760/48518.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 2
+http://102922.tvdev.club/live/TV-34393502/755236554760/96376.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",M+ Liga Campeones 3 FHD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/48519.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 4
+http://102922.tvdev.club/live/TV-34393502/755236554760/48520.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 5
+http://102922.tvdev.club/live/TV-34393502/755236554760/48521.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 6
+http://102922.tvdev.club/live/TV-34393502/755236554760/48522.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 7
+http://102922.tvdev.club/live/TV-34393502/755236554760/48523.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 8
+http://102922.tvdev.club/live/TV-34393502/755236554760/48524.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 9
+http://102922.tvdev.club/live/TV-34393502/755236554760/444582.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 10
+http://102922.tvdev.club/live/TV-34393502/755236554760/444593.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 11
+http://102922.tvdev.club/live/TV-34393502/755236554760/444591.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 12
+http://102922.tvdev.club/live/TV-34393502/755236554760/444590.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 13
+http://102922.tvdev.club/live/TV-34393502/755236554760/444589.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 14
+http://102922.tvdev.club/live/TV-34393502/755236554760/444588.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 15
+http://102922.tvdev.club/live/TV-34393502/755236554760/444587.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 16
+http://102922.tvdev.club/live/TV-34393502/755236554760/444586.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 17
+http://102922.tvdev.club/live/TV-34393502/755236554760/444585.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 18
+http://102922.tvdev.club/live/TV-34393502/755236554760/444584.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LIGA CAMPEONES 19
+http://102922.tvdev.club/live/TV-34393502/755236554760/444583.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 4 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/48507.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 5
+http://102922.tvdev.club/live/TV-34393502/755236554760/48508.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 6
+http://102922.tvdev.club/live/TV-34393502/755236554760/48509.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 7
+http://102922.tvdev.club/live/TV-34393502/755236554760/48510.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 8
+http://102922.tvdev.club/live/TV-34393502/755236554760/48511.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 9
+http://102922.tvdev.club/live/TV-34393502/755236554760/48566.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV 10
+http://102922.tvdev.club/live/TV-34393502/755236554760/48564.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| M+ LALIGA TV HYPERMOTION FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/109341.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN MotoGP FHD (Orange)
+http://102922.tvdev.club/live/TV-34393502/755236554760/461946.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN MOTOGP HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/461947.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN F1 FHD (HEVC)
+http://102922.tvdev.club/live/TV-34393502/755236554760/112878.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN F1 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/82181.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN F1 HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/111134.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN 1 FHD (HEVC)
+http://102922.tvdev.club/live/TV-34393502/755236554760/60298.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN 1 HD
+http://102922.tvdev.club/live/TV-34393502/755236554760/60297.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN 2 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/79524.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN 2
+http://102922.tvdev.club/live/TV-34393502/755236554760/79529.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN 3 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/79530.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",|ES| DAZN 4 FHD
+http://102922.tvdev.club/live/TV-34393502/755236554760/79531.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto FHD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463401.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto SD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463399.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto FHD (Orange) (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463400.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto 2 FHD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463407.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto 2 SD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463405.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto 2 FHD (Orange) (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463406.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto 3 FHD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463404.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto 3 SD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463402.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",DAZN Baloncesto 3 FHD (Orange) (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463403.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",M+ Baloncesto FHD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463394.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",M+ Baloncesto SD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463393.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",M+ Baloncesto 2 FHD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463398.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",M+ Baloncesto 2 SD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463397.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",M+ Baloncesto 3 FHD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463396.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",M+ Baloncesto 3 SD (ES)
+http://102922.tvdev.club/live/TV-34393502/755236554760/463395.m3u
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
+http://102922.tvdev.club/live/TV-34393502/755236554760/463425.m3u
